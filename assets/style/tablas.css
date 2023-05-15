@@ -1,0 +1,12 @@
+h1, h2{background-color: rgb(83, 146, 146);}
+
+table,
+td {
+    border: 1px solid #000000;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #000000;
+}
